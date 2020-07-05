@@ -5,4 +5,4 @@ This was our SYSC 4805 project of a self parking modelled car. All information i
 
 | col 1      | col 2      |
 |------------|-------------|
-|Cover_Photo.jpg|cover_photo2.jpg|
+|![cover_img](Cover_photo.jpg)|![cover_img2](cover_photo2.jpg)|
